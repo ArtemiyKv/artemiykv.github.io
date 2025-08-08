@@ -10,7 +10,13 @@ export default defineNuxtConfig({
     baseURL: '/', // Replace with your repository name,
     buildAssetsDir: 'assets',
   },
+  router: {
+    base: '/artemiykv.github.io/'
+  },
   ssr: true,
+  generate: {
+    routes: ['/figma', '/media-designer', '/designs']
+  },
   modules: [
     '@nuxt/content',
     '@nuxt/fonts',
@@ -20,7 +26,7 @@ export default defineNuxtConfig({
   ],
   nitro: {
     prerender: {
-      routes: ['/', '/figma', '/media-designer', 'designs'] // добавь нужные маршруты
+      routes: ['/', '/figma', '/media-designer', '/designs'] // добавь нужные маршруты
     }
   }
 })
