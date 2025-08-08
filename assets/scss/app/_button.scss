@@ -1,0 +1,40 @@
+button {
+  display: flex;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  box-sizing: border-box;
+  border: 2px solid black;
+  gap: 0.5rem;
+  align-items: center;
+  transition: all 0.2s ease-out;
+  cursor: pointer;
+  p {
+    font-variation-settings: "wght" 600;
+    font-size: 1rem;
+  }
+  span {
+    width: 1.5rem;
+    height: 1.5rem;
+    z-index: -1;
+
+  }
+  &:hover {
+    background: black;
+    p,
+    span {
+      color: white;
+    }
+  }
+}
+
+.button--black {
+  background: black;
+
+  p,
+  span {
+    color: white;
+  }
+  &:hover {
+    opacity: 0.8;
+  }
+}

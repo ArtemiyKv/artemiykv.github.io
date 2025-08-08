@@ -1,0 +1,32 @@
+title: '3D and 2D Portfolio'
+slug: 'designs'
+content:
+  - text: '3D modeling of characters and objects — with the option to collaborate with a character designer if needed Rigging and animation, from simple product rotations to complex character motion Final rendering — high-quality visuals suitable for marketing,  training, or digital platforms'
+    image: 'characters.png'
+    image_mobile: 'characters_mobile.png'
+    is_video: false
+    video: ''
+    video_mobile: ''
+    is_animation: false
+    animation: ''
+    animation_mobile: ''
+  - text: '3D animation for product design or explanatory purposes. Custom animation for video courses or tutorials, to explain complex ideas in a simple and visually appealing way Motion graphics for product advertisements or startup presentations 3D visuals for UI/UX prototypes and digital interfaces'
+    image: ''
+    image_mobile: ''
+    is_video: true
+    video: '2d.mp4'
+    video_mobile: '2d_mobile.mp4'
+    is_animation: false
+    animation: ''
+    animation_mobile: ''
+  - text: 'I can create engaging and visually appealing animations in 2D tailored to your needs. This includes: Animated logos and brand identities Promotional videos and advertisements Explainer videos to simplify complex ideas Social media content and motion graphics Character animations and storytelling Title sequences and transitions for videos'
+    image: ''
+    image_mobile: ''
+    is_video: true
+    video: '3d.mp4'
+    video_mobile: '3d_mobile.mp4'
+    is_animation: false
+    animation: ''
+    animation_mobile: ''
+
+

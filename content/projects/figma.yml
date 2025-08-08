@@ -1,0 +1,36 @@
+title: 'Figma portfolio'
+slug: 'figma'
+content:
+  - text: 'The work was done for educational purposes, as an announcement of a new feature by the company Cospaces, which provides programming education for children. The colors were chosen to match the company’s style. The fonts are playful and cheerful to attract children.'
+    image: 'cospaces.png'
+    image_mobile: 'cospaces_mobile.png'
+    is_video: false
+    video: ''
+    video_mobile: ''
+    is_animation: false
+    animation: ''
+    animation_mobile: ''
+  - text: 'Created Amazon product listing for handbags (training project)  Conducted market research to identify popular styles and customer needs. Developed unique selling points focused on eco-friendly materials and versatile design. Designed a compelling product page with optimized images, persuasive copy, and clear value proposition to stand out in a competitive category'
+    image: 'amazon.png'
+    image_mobile: 'amazon_mobile.png'
+    is_video: false
+    video:
+    video_mobile: ''
+    is_animation: false
+    animation: ''
+    animation_mobile: ''
+  - text: "As part of the project, a label design and an animation of the can's movement on the website when hovered over with a mouse were created."
+    image: ''
+    image_mobile: ''
+    is_video: true
+    video: 'frutti.mp4'
+    video_mobile: 'frutti_mobile.mp4'
+    is_animation: false
+    animation: ''
+    animation_mobile: ''
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+@use "/assets/scss/fonts.scss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 2rem;
+  margin: 0;
+  height: 150vh;
+}
+
+h1 {
+  font-family: "Sora", serif;
+  font-weight: 300;
+  color: black;
+}
+
+h2 {
+  font-family: "Sora", serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+
+}
+
+p {
+  font-family: "Sora", serif;
+  font-variation-settings: "wght" 400;
+  margin: 0;
+
+  & > a {
+    font-size: 2rem;
+  }
+}
+
+a {
+  font-family: "Sora", serif;
+  font-size: 0.875rem;
+}
+
+span {
+  font-family: "Sora", serif;
+}

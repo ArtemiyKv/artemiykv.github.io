@@ -1,0 +1,32 @@
+title: 'Media Designer Portfolio'
+slug: 'media-designer'
+content:
+  - text: 'I create social media content that combines smooth animations, engaging text, and thoughtful graphic design to deliver visually compelling messages. These assets are tailored for platforms like Instagram, Facebook, TikTok, and LinkedIn — whether it’s for brand storytelling, product promotion, or educational purposes. The goal is to make your content stand out and connect with your audience through motion, clarity, and consistent visual identity'
+    image: ''
+    image_mobile: ''
+    is_video: true
+    video: 'angebot.mp4'
+    video_mobile: 'angebot_mobile.mp4'
+    is_animation: false
+    animation: ''
+    animation_mobile: ''
+  - text: 'I offer classic graphic design services, including professional photo retouching and layout development, tailored specifically for product promotion on marketplaces such as Amazon. This includes creating clean, eye-catching visuals that follow platform guidelines and effectively highlight key product features. From infographics and product cards to branded templates, the goal is to build visual content that increases engagement and drives sales.'
+    image: 'amazon.png'
+    image_mobile: 'amazon_mobile.png'
+    is_video: false
+    video: ''
+    video_mobile: ''
+    is_animation: false
+    animation: ''
+    animation_mobile: ''
+  - text: 'High-end professional photo retouching — including color correction, skin and texture refinement, background cleanup, and preparation for print or digital use AI experiments'
+    image: ''
+    image_mobile: ''
+    is_video: true
+    video: 'ai_mobile.mp4'
+    video_mobile: ''
+    is_animation: false
+    animation: ''
+    animation_mobile: ''
+
+
