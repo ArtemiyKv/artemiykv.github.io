@@ -17,5 +17,10 @@ export default defineNuxtConfig({
     '@nuxt/icon',
     // '@nuxt/image',
     // '@nuxt/ui'
-  ]
+  ],
+  nitro: {
+    prerender: {
+      routes: ['/', '/figma', '/media-designer', 'designs'] // добавь нужные маршруты
+    }
+  }
 })
